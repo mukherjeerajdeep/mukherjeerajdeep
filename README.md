@@ -67,7 +67,7 @@ I'm Rajdeep Mukherjee a Java backend developer and Python Enthusiastic. I Spend 
 
 #### Bizness
 <!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
-- :email: rajdeepmukh@gmail.com
+email: rajdeepmukh@gmail.com
 
 
 #### Profile Visits 
