@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
 
-I'm Rajdeep Mukherjee a Java backend developer and Python Enthusiatic. I Spend most of time coding outstanding projects or recording tutorials.
+I'm Rajdeep Mukherjee a Java backend developer and Python Enthusiastic. I Spend most of time coding outstanding projects or recording tutorials.
 
 <!-- :mailbox: Reach me out!
 
@@ -61,9 +61,9 @@ I'm Rajdeep Mukherjee a Java backend developer and Python Enthusiatic. I Spend m
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
-
+<!-- 
 <br />
-<br />
+<br /> -->
 
 #### Bizness
 <!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
@@ -87,7 +87,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 <!--START_SECTION:waka-->
 ```text
-Java         15 hrs 41 mins  ████████████████████▓░░░░   73.29 % 
+Java         15 hrs 41 mins  ████████████████████▓░░░░   84.29 % 
 Python       8 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
