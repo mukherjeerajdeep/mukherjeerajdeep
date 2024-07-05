@@ -73,6 +73,9 @@ email: rajdeepmukh@gmail.com
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mukherjeerajdeep.mukherjeerajdeep)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge.issue.1
 
 <details>
 <summary>
